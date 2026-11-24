@@ -1,0 +1,15 @@
+
+# Ignore datasets
+data/raw/
+data/cleaned/
+
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
